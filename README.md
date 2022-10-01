@@ -1,4 +1,4 @@
-# kkndme_tianya（持续更新中...）
+# kkndme_tianya（[持续更新中...](https://github.com/shengcaishizhan/kkndme_tianya)）
 
 > 天涯神贴[「2010年的房地产调控，我们收获了什么？写在房价暴涨前」](http://bbs.tianya.cn/post-house-252774-1.shtml)脱水版，内容时间顺序和原贴一致，原贴中的优质非楼主写的内容，添加了引用格式便于区分。
 > 
@@ -13,7 +13,7 @@
 > 
 > * 鉴于很多人关注公众号后，咨询有没有微信讨论群可以加，之前没有，现在有了
 > * 加微信（微信搜索`947792580`或 扫下方二维码），免费拉你进 **kkndme** 交流群
-> ![微信号:947792580](laoshen.JPG)
+> ![微信号:947792580](https://github.com/shengcaishizhan/kkndme_tianya/blob/master/laoshen.JPG?raw=true)
 
 - [调控降房价是刚需的一厢情愿](#调控降房价是刚需的一厢情愿)
 	- [1、人人都有居住权。房子是用来住的，不是用来炒的。](#1人人都有居住权房子是用来住的不是用来炒的)
